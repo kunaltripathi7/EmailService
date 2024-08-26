@@ -1,4 +1,4 @@
-#Email Service
+# Email Service
 
 A resilient email sending service implemented in TypeScript with features such as retry logic, fallback mechanisms, idempotency, rate limiting, status tracking, and a basic queue system. It also includes a circuit breaker pattern and logging.
 
